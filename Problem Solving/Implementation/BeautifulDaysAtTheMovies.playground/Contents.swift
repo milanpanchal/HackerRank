@@ -70,3 +70,4 @@ func beautifulDays(i: Int, j: Int, k: Int) -> Int {
 
 beautifulDays(i: 20, j: 23, k: 6) // 2
 beautifulDays(i: 13, j: 45, k: 3) // 33
+beautifulDays(i: 1, j: 2000000, k: 23047885) // 2998
