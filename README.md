@@ -3,6 +3,7 @@ Solving HackerRank Challenges in Swift Playground
 
 ## Problem Solving
 + ### Greedy
+  + [Greedy Florist](https://github.com/milanpanchal/HackerRank/tree/master/Problem%20Solving/Greedy/GreedyFlorist.playground/Contents.swift)
   + [Largest Permutation](https://github.com/milanpanchal/HackerRank/tree/master/Problem%20Solving/Greedy/LargestPermutation.playground/Contents.swift)
   + [Luck Balance](https://github.com/milanpanchal/HackerRank/tree/master/Problem%20Solving/Greedy/LuckBalance.playground/Contents.swift)
   + [Mark and Toys](https://github.com/milanpanchal/HackerRank/tree/master/Problem%20Solving/Greedy/MarkAndToys.playground/Contents.swift)
