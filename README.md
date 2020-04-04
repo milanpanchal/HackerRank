@@ -11,6 +11,7 @@ Solving HackerRank Challenges in Swift Playground
   + [Priyanka and Toys](https://github.com/milanpanchal/HackerRank/tree/master/Problem%20Solving/Greedy/PriyankaAndToys.playground/Contents.swift)
 + ### Implementation
   + [Apple and Orange](https://github.com/milanpanchal/HackerRank/tree/master/Problem%20Solving/Implementation/AppleAndOrange.playground/Contents.swift)
+  + [Beautiful Days at the Movies](https://github.com/milanpanchal/HackerRank/tree/master/Problem%20Solving/Implementation/BeautifulDaysAtTheMovies.playground/Contents.swift)
   + [Between two Sets](https://github.com/milanpanchal/HackerRank/tree/master/Problem%20Solving/Implementation/BetweenTwoSets.playground/Contents.swift)
   + [Bon Appétit](https://github.com/milanpanchal/HackerRank/blob/master/Problem%20Solving/Implementation/BonAppétit.playground/Contents.swift)
   + [Cavity Map](https://github.com/milanpanchal/HackerRank/tree/master/Problem%20Solving/Implementation/CavityMap.playground)
