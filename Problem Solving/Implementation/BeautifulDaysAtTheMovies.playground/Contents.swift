@@ -55,7 +55,7 @@
 import Foundation
 
 // Complete the beautifulDays function below.
-func beautifulDays(i: Int, j: Int, k: Int) -> Int {
+/*func beautifulDays(i: Int, j: Int, k: Int) -> Int {
     var totalBeautifulDays = 0
     for day in i...j {
         if let reverseNumber = Int(String(String(day).reversed())) {
@@ -63,6 +63,26 @@ func beautifulDays(i: Int, j: Int, k: Int) -> Int {
                 totalBeautifulDays += 1
             }
         }
+    }
+
+    return totalBeautifulDays
+}*/
+
+func beautifulDays(i: Int, j: Int, k: Int) -> Int {
+    var totalBeautifulDays = 0
+    for day in i...j {
+
+        var num = day
+        var reverseNumber = 0;
+        while (num > 0) {
+            reverseNumber = reverseNumber*10 + num%10;
+            num = num/10;
+        }
+
+        if (abs(day-reverseNumber) % k == 0) {
+            totalBeautifulDays += 1
+        }
+    
     }
 
     return totalBeautifulDays
