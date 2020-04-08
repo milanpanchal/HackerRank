@@ -1,16 +1,17 @@
 # HackerRank
-Solving HackerRank Challenges in Swift Playground
+Solving HackerRank Challenges using Swift Playground
 
 ## Problem Solving
+
 + ### Greedy
+
   1. [Greedy Florist](https://github.com/milanpanchal/HackerRank/tree/master/Problem%20Solving/Greedy/GreedyFlorist.playground/Contents.swift)
   2. [Largest Permutation](https://github.com/milanpanchal/HackerRank/tree/master/Problem%20Solving/Greedy/LargestPermutation.playground/Contents.swift)
   3. [Luck Balance](https://github.com/milanpanchal/HackerRank/tree/master/Problem%20Solving/Greedy/LuckBalance.playground/Contents.swift)
   4. [Mark and Toys](https://github.com/milanpanchal/HackerRank/tree/master/Problem%20Solving/Greedy/MarkAndToys.playground/Contents.swift)
-  5. [Permuting Two Arrays](https://github.com/milanpanchal/HackerRank/tree/master/Problem%20Solving/Greedy/PermutingTwoArrays.playground/Contents.swift)
-  6. [Priyanka and Toys](https://github.com/milanpanchal/HackerRank/tree/master/Problem%20Solving/Greedy/PriyankaAndToys.playground/Contents.swift)
-  
-  
+  5. [Max Min](https://github.com/milanpanchal/HackerRank/tree/master/Problem%20Solving/Greedy/MaxMin.playground/Contents.swift)
+  6. [Permuting Two Arrays](https://github.com/milanpanchal/HackerRank/tree/master/Problem%20Solving/Greedy/PermutingTwoArrays.playground/Contents.swift)
+  7. [Priyanka and Toys](https://github.com/milanpanchal/HackerRank/tree/master/Problem%20Solving/Greedy/PriyankaAndToys.playground/Contents.swift)
   
 + ### Implementation
   
@@ -34,8 +35,6 @@ Solving HackerRank Challenges in Swift Playground
   18. [Migratory Birds](https://github.com/milanpanchal/HackerRank/tree/master/Problem%20Solving/Implementation/MigratoryBirds.playground/Contents.swift)
   19. [Sock Merchant](https://github.com/milanpanchal/HackerRank/tree/master/Problem%20Solving/Implementation/SockMerchant.playground/Contents.swift)
   20. [The Hurdle Race](https://github.com/milanpanchal/HackerRank/tree/master/Problem%20Solving/Implementation/TheHurdleRace.playground/Contents.swift)
-  
-  
   
 +  ### Warmup
   1. [A Very Big Sum](https://github.com/milanpanchal/HackerRank/tree/master/Problem%20Solving/Warmup/AVeryBigSum.playground/Contents.swift)
