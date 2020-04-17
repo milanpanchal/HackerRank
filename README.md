@@ -3,7 +3,7 @@ Solving HackerRank Challenges using Swift Playground
 
 ## Problem Solving
 
-+ ### Greedy
++  ### Greedy
 
   1. [Greedy Florist](https://github.com/milanpanchal/HackerRank/tree/master/Problem%20Solving/Greedy/GreedyFlorist.playground/Contents.swift)
   2. [Largest Permutation](https://github.com/milanpanchal/HackerRank/tree/master/Problem%20Solving/Greedy/LargestPermutation.playground/Contents.swift)
@@ -13,7 +13,7 @@ Solving HackerRank Challenges using Swift Playground
   6. [Permuting Two Arrays](https://github.com/milanpanchal/HackerRank/tree/master/Problem%20Solving/Greedy/PermutingTwoArrays.playground/Contents.swift)
   7. [Priyanka and Toys](https://github.com/milanpanchal/HackerRank/tree/master/Problem%20Solving/Greedy/PriyankaAndToys.playground/Contents.swift)
   
-+ ### Implementation
++  ### Implementation
   
   1. [Apple and Orange](https://github.com/milanpanchal/HackerRank/tree/master/Problem%20Solving/Implementation/AppleAndOrange.playground/Contents.swift)
   2. [Beautiful Days at the Movies](https://github.com/milanpanchal/HackerRank/tree/master/Problem%20Solving/Implementation/BeautifulDaysAtTheMovies.playground/Contents.swift)
@@ -47,6 +47,11 @@ Solving HackerRank Challenges using Swift Playground
   8. [Staircase](https://github.com/milanpanchal/HackerRank/tree/master/Problem%20Solving/Warmup/Staircase.playground/Contents.swift)
   9. [Time Conversion](https://github.com/milanpanchal/HackerRank/tree/master/Problem%20Solving/Warmup/TimeConversion.playground/Contents.swift)
 
+## Mathematics
+
++  ### Fundamentals
+  
+  1. [Is Fibo](https://github.com/milanpanchal/HackerRank/tree/master/Mathematics/Fundamentals/IsFibo.playground/Contents.swift)
 
 
 ## Author
@@ -69,4 +74,3 @@ License
 MIT
 
 **Free Software, Hell Yeah!**
-
