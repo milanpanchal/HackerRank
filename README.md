@@ -36,6 +36,9 @@ Solving HackerRank Challenges using Swift Playground
   19. [Sock Merchant](https://github.com/milanpanchal/HackerRank/tree/master/Problem%20Solving/Implementation/SockMerchant.playground/Contents.swift)
   20. [The Hurdle Race](https://github.com/milanpanchal/HackerRank/tree/master/Problem%20Solving/Implementation/TheHurdleRace.playground/Contents.swift)
   
++  ### Strings
+  1. [Game of Thrones - I](https://github.com/milanpanchal/HackerRank/blob/master/Problem%20Solving/Strings/GameOfThrones-I.playground/Contents.swift)
+
 +  ### Warmup
   1. [A Very Big Sum](https://github.com/milanpanchal/HackerRank/tree/master/Problem%20Solving/Warmup/AVeryBigSum.playground/Contents.swift)
   2. [Birthday Cake Candles](https://github.com/milanpanchal/HackerRank/tree/master/Problem%20Solving/Warmup/BirthdayCakeCandles.playground/Contents.swift)
