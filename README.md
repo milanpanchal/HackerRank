@@ -27,8 +27,10 @@ Solving HackerRank Challenges using Swift Playground
   10. [Counting Valleys](https://github.com/milanpanchal/HackerRank/tree/master/Problem%20Solving/Implementation/CountingValleys.playground/Contents.swift)
   11. [Designer Pdf Viewer](https://github.com/milanpanchal/HackerRank/tree/master/Problem%20Solving/Implementation/DesignerPdfViewer.playground/Contents.swift)
   12. [Divisible Sum Pairs](https://github.com/milanpanchal/HackerRank/tree/master/Problem%20Solving/Implementation/DivisibleSumPairs.playground/Contents.swift)
-  13. [Flatland Space Stations](https://github.com/milanpanchal/HackerRank/tree/master/Problem%20Solving/Implementation/FlatlandSpaceStations.playground/Contents.swift)
-  14. [Grading Students](https://github.com/milanpanchal/HackerRank/tree/master/Problem%20Solving/Implementation/GradingStudents.playground/Contents.swift)
+  13. [Encryption](https://github.com/milanpanchal/HackerRank/tree/master/Problem%20Solving/Implementation/Encryption.playground/Contents.swift)
+  14. [Flatland Space Stations](https://github.com/milanpanchal/HackerRank/tree/master/Problem%20Solving/Implementation/FlatlandSpaceStations.playground/Contents.swift)
+  15. [Forming a Magic Square](https://github.com/milanpanchal/HackerRank/tree/master/Problem%20Solving/Implementation/FormingAMagicSquare.playground/Contents.swift)
+  16. [Grading Students](https://github.com/milanpanchal/HackerRank/tree/master/Problem%20Solving/Implementation/GradingStudents.playground/Contents.swift)
   15. [Halloween Sale](https://github.com/milanpanchal/HackerRank/tree/master/Problem%20Solving/Implementation/HalloweenSale.playground/Contents.swift)
   16. [Happy Ladybugs](https://github.com/milanpanchal/HackerRank/tree/master/Problem%20Solving/Implementation/HappyLadybugs.playground/Contents.swift)
   17. [Kangaroo](https://github.com/milanpanchal/HackerRank/tree/master/Problem%20Solving/Implementation/Kangaroo.playground/Contents.swift)
@@ -37,7 +39,8 @@ Solving HackerRank Challenges using Swift Playground
   20. [The Hurdle Race](https://github.com/milanpanchal/HackerRank/tree/master/Problem%20Solving/Implementation/TheHurdleRace.playground/Contents.swift)
   
 +  ### Strings
-  1. [Game of Thrones - I](https://github.com/milanpanchal/HackerRank/blob/master/Problem%20Solving/Strings/GameOfThrones-I.playground/Contents.swift)
+    1. [Game of Thrones - I](https://github.com/milanpanchal/HackerRank/blob/master/Problem%20Solving/Strings/GameOfThrones-I.playground/Contents.swift)
+    2. [Two Strings](https://github.com/milanpanchal/HackerRank/blob/master/Problem%20Solving/Strings/TwoStrings.playground/Contents.swift)
 
 +  ### Warmup
   1. [A Very Big Sum](https://github.com/milanpanchal/HackerRank/tree/master/Problem%20Solving/Warmup/AVeryBigSum.playground/Contents.swift)
