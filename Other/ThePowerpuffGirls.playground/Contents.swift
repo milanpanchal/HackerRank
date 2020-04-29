@@ -50,6 +50,7 @@ func totalPowerpuffGirls(numberOfIngredients: Int, requireQuantity: [Int], total
 
     for (reqQuantity, maxQuanity) in zip(requireQuantity, totalQuantity) {
         if reqQuantity > maxQuanity {
+            maxPowerpuffGirls.append(0)
           break
         }
         
@@ -64,5 +65,5 @@ func totalPowerpuffGirls(numberOfIngredients: Int, requireQuantity: [Int], total
 
 
 totalPowerpuffGirls(numberOfIngredients: 4, requireQuantity: [2, 5, 6, 3], totalQuantity: [20, 40, 90, 50]) // 8
-totalPowerpuffGirls(numberOfIngredients: 4, requireQuantity: [2, 0, 6, 3], totalQuantity: [20, 40, 90, 50]) // 0
+totalPowerpuffGirls(numberOfIngredients: 4, requireQuantity: [2, 41, 6, 3], totalQuantity: [20, 40, 90, 50]) // 0
 print("Finished")

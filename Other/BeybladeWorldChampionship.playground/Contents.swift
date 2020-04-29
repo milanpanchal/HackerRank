@@ -55,9 +55,9 @@
 
  */
 
-import UIKit
+import Foundation
 
-//let numOfTestCases  = readLine()!
+//let numOfTestCases  = Int(readLine()!)!
 //let numOfTeams      = Int(readLine()!)!
 //let teamGPower      = readLine()!.split(separator: " ").map({Int($0)!})
 //let opponentPower   = readLine()!.split(separator: " ").map({Int($0)!})
