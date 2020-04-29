@@ -1,6 +1,9 @@
 # HackerRank
 Solving HackerRank Challenges using Swift Playground
 
+![](https://github.com/milanpanchal/HackerRank/blob/master/Assets/HackerRankLogo.svg)
+
+
 ## Problem Solving
 
 | Greedy                                                       | Implementation                                               | Strings                                                      | Warmup                                                       |
